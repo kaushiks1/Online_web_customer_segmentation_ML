@@ -1,5 +1,7 @@
 # Project Summary: Web Analytics Customer Segmentation
 
+
+
 ## Objective
 Segment online customers based on website behaviour, ecommerce activity, engagement, acquisition source, and conversion behaviour.
 
