@@ -1,0 +1,6 @@
+segment,segment_name,customers,total_revenue_gbp,avg_sessions,avg_pageviews,avg_duration_sec,avg_bounce_rate,avg_product_views,avg_cart_additions,avg_transactions,avg_revenue_gbp,avg_days_since_last_visit,avg_conversion_rate,avg_engagement_score,returning_user_rate
+0,Product Researchers,2251,40471.5,16.6,98.62,454.39,0.28,48.63,2.67,0.26,17.98,37.68,0.02,74.42,0.73
+1,Low Engagement / At-Risk Visitors,328,765.32,1.66,13.96,96.6,0.72,7.4,0.29,0.05,2.33,113.79,0.04,38.07,0.2
+2,High Value Loyal Customers,949,626995.38,28.89,151.0,502.86,0.19,64.1,11.96,6.07,660.69,7.81,0.22,80.64,1.0
+3,Engaged Non-Buyers,1064,3770.25,3.38,15.3,94.12,0.73,5.68,0.29,0.08,3.54,111.48,0.03,27.73,0.17
+4,Engaged Non-Buyers,1408,174587.04,17.77,96.51,363.42,0.3,43.3,5.3,1.95,124.0,26.4,0.11,66.44,0.8

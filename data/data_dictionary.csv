@@ -1,0 +1,24 @@
+column,description
+customer_id,Unique anonymous customer ID
+last_visit_date,Most recent website visit date
+country,Customer country
+device_type,Primary device type
+traffic_source,Dominant acquisition channel
+sessions,Total sessions
+pageviews,Total pageviews
+avg_session_duration_sec,Average session duration in seconds
+bounce_rate,Average bounce rate
+product_views,Product detail page views
+cart_additions,Add-to-cart events
+transactions,Purchases
+revenue_gbp,Revenue in GBP
+days_since_last_visit,Days since last visit
+email_clicks,Marketing email clicks
+support_visits,Support page visits
+discount_usage_rate,Discount usage intensity
+returning_user,Returning user flag
+conversion_rate,Transactions / sessions
+cart_to_purchase_rate,Transactions / cart additions
+pages_per_session,Pageviews / sessions
+engagement_score,Composite engagement score
+synthetic_ground_truth_segment,Synthetic validation label; excluded from modelling
